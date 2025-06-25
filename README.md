@@ -18,3 +18,7 @@ Dashboard Highlights
 - Goal: Centralized and intuitive sales monitoring
 - Key Visuals: Sales/Profit by Month, Region, Segment, Category, Ship Mode, and State-level Mapping
 - Business Impact: Supports growth strategy, inventory planning, and customer behavior analysis
+
+
+Snapshoot of the Dashboard : ![Alt text](https://github.com/username/repo/assets/image.png)
+Example : ![Dashboard Preview](https://github.com/itspratikdas/Grow-Sales/blob/main/Grow%20sales.png)
